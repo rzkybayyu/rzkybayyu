@@ -8,11 +8,24 @@ I specialize in **Excel Automation with VBA**, **Data Analysis**, and **Dashboar
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 
-## 🔹 My Projects  
-- 📊 **[Sales Dashboard Automation](#)** - Automating monthly sales reports with VBA  
-- 📑 **[Data Entry Form in Excel](#)** - UserForm for structured data input  
-- 📅 **[Task Reminder in Excel](#)** - VBA-based notification system  
+# 👋 Hi, I'm [Nama Anda]  
+🔹 VBA Excel Enthusiast | Data Analyst | Automation Specialist  
 
-💬 **Connect with me:**  
-- LinkedIn: [Your LinkedIn]  
-- Tableau Public: [Your Tableau]  
+🚀 Passionate about **Excel VBA Automation**, **Data Analysis**, and **Dashboarding**.  
+💡 Love solving problems and automating repetitive tasks.  
+
+## 🔥 My Skills  
+✅ Excel VBA & Macros  
+✅ Data Visualization (Excel, Tableau)  
+✅ SQL & Data Analysis  
+
+## 📌 Featured Projects  
+📊 **[Sales Dashboard Automation](#)** – Automates monthly sales reports  
+📑 **[Excel Data Entry Form](#)** – Simplifies structured data input  
+📅 **[Task Reminder in Excel](#)** – VBA-based notification system  
+
+## 📫 Let's Connect!  
+🔗 **LinkedIn:** [Your LinkedIn](#)  
+🔗 **GitHub:** [Your GitHub](#)  
+🔗 **Tableau Public:** [Your Tableau](#)  
+
