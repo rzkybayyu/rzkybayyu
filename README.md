@@ -1,5 +1,6 @@
 # 👋 Hi, I'm [Nama Anda]  
 I specialize in **Excel Automation with VBA**, **Data Analysis**, and **Dashboarding**.  
+![Header](https://raw.githubusercontent.com/username/repository/main/banner.png)
 
 ## 🔹 My Projects  
 - 📊 **[Sales Dashboard Automation](#)** - Automating monthly sales reports with VBA  
