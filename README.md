@@ -9,14 +9,13 @@ About Me:
 ## 🔥 My Skills  
 ✅ Excel VBA & Macros  
 ✅ Data Visualization (Excel, Tableau)  
-✅ SQL & Data Analysis  
+✅ SQL & Python
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-
-## 🔥 My Skills  
-✅ Excel VBA & Macros  
-✅ Data Visualization (Excel, Tableau)  
-✅ SQL & Data Analysis  
 
 🔗 **Kaggle:** [Profile](https://www.kaggle.com/rizkybayudwiputra)
 
