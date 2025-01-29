@@ -6,9 +6,12 @@ About Me:
 🚀 Passionate about **Excel VBA Automation**, **Data Analysis**, and **Dashboarding**.  
 💡 Love solving problems and automating repetitive tasks.  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+## 🔥 My Skills  
+✅ Excel VBA & Macros  
+✅ Data Visualization (Excel, Tableau)  
+✅ SQL & Data Analysis  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
 ## 🔥 My Skills  
 ✅ Excel VBA & Macros  
@@ -17,6 +20,4 @@ About Me:
 
 🔗 **Kaggle:** [Profile](https://www.kaggle.com/rizkybayudwiputra)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark) |
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
