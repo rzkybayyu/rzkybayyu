@@ -17,4 +17,4 @@ About Me:
 ✅ Data Visualization (Excel, Tableau)  
 ✅ SQL & Data Analysis  
 
-🔗 **Kaggle:** [[Your Tableau](https://www.kaggle.com/rizkybayudwiputra)](#)
+🔗 **Kaggle:** [(https://www.kaggle.com/rizkybayudwiputra)](#)
