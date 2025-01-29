@@ -10,11 +10,13 @@ About Me:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue) 
-
 ## 🔥 My Skills  
 ✅ Excel VBA & Macros  
 ✅ Data Visualization (Excel, Tableau)  
 ✅ SQL & Data Analysis  
 
-🔗 **Kaggek:** [Profile](https://www.kaggle.com/rizkybayudwiputra)
+🔗 **Kaggle:** [Profile](https://www.kaggle.com/rizkybayudwiputra)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark) |
+
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
