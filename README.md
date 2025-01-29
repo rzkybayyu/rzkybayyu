@@ -11,10 +11,8 @@ About Me:
 ✅ Data Visualization (Excel, Tableau)  
 ✅ SQL & Python
 
-![Excel]([https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dmicrosoft%2BExcel&psig=AOvVaw3W7-FB5Hly6jivdwNvcKRw&ust=1738217104842000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOi1mbqhmosDFQAAAAAdAAAAABAT))
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dmicrosoft%2BExcel&psig=AOvVaw3W7-FB5Hly6jivdwNvcKRw&ust=1738217104842000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOi1mbqhmosDFQAAAAAdAAAAABAT)" width="50" height="50"/>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
